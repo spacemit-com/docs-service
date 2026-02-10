@@ -22,6 +22,8 @@ sidebar_position: 1
 ### 获得NDA认证
 
 请联系与您对接的进迭时空业务负责人，获取NDA协议。
+- [进迭时空-（单向）保密协议模板-20230625](https://cdn-resource.spacemit.com/file%2Fservice%2F%E8%BF%9B%E8%BF%AD%E6%97%B6%E7%A9%BA-%EF%BC%88%E5%8D%95%E5%90%91%EF%BC%89%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE%E6%A8%A1%E6%9D%BF-20230625.docx)
+- [进迭时空-（双向）保密协议模板-20230625](https://cdn-resource.spacemit.com/file%2Fservice%2F%E8%BF%9B%E8%BF%AD%E6%97%B6%E7%A9%BA-%EF%BC%88%E5%8F%8C%E5%90%91%EF%BC%89%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE%E6%A8%A1%E6%9D%BF-20230625.docx)
 
 ### 添加企业成员
 
